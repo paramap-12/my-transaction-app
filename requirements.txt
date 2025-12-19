@@ -1,4 +1,4 @@
 pandas
-openpyx1
+openpyxl
 plotly
 streamlit
