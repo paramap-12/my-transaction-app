@@ -1,0 +1,4 @@
+pandas
+openpyx1
+plotly
+streamlit
